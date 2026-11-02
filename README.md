@@ -6,6 +6,9 @@ Protótipo maker da **Cabra Cabriola** para o **Hackathon 2k26**.
 
 Reinterpretamos a lenda da Cabra Cabriola como um **boneco mecânico de papelão**: chifres curvos, olhos que mudam de cor, braços e boca articulados, locomoção por motores e controle por Wi‑Fi no celular. A “nova skin” é visual; o “novo poder” é a interação (presença → modo bravo).
 
+**Tutorial Instructables:**  
+https://www.instructables.com/Prototipagem-Da-Lenda-Folclórica-Cabra-Cabriola-Em/
+
 ---
 
 ## O que tem neste repositório
@@ -78,7 +81,11 @@ Detalhes de ligação e montagem em papelão: ver `docs/instructables-cabra-cabr
 
 ## Tutorial Instructables
 
-O arquivo `docs/instructables-cabra-cabriola.md` está pronto para colar no Instructables (sem tabelas Markdown, só listas). Substitua os marcadores `[FOTO]` pelas fotos reais do protótipo.
+Tutorial publicado:
+
+https://www.instructables.com/Prototipagem-Da-Lenda-Folclórica-Cabra-Cabriola-Em/
+
+Cópia em Markdown neste repo: `docs/instructables-cabra-cabriola.md`
 
 ---
 

@@ -1,5 +1,8 @@
 # Cabra Cabriola Mecânica: Folclore Brasileiro + ESP32 (Hackathon 2k26)
 
+**Publicado no Instructables:**  
+https://www.instructables.com/Prototipagem-Da-Lenda-Folclórica-Cabra-Cabriola-Em/
+
 **By:** equipe Cabra Cabriola — Hackathon 2k26  
 **Tema do hackathon:** *O Folclore Brasileiro: nova skin, novos poderes*  
 **Tempo estimado:** 1–2 dias (estrutura + eletrônica + firmware)  
