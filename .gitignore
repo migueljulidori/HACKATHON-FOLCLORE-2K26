@@ -1,0 +1,9 @@
+.DS_Store
+*.tmp
+.venv/
+__pycache__/
+.idea/
+.vscode/
+*.elf
+*.bin
+*.map
